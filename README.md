@@ -13,7 +13,7 @@ For educational/academic use only. All work was performed against **isolated lab
 ## Contents
 | Path | Description |
 | --- | --- |
-| `/01-vulnerable-vm/` | Designed and documented an intentionally vulnerable Ubuntu Server 20.04 VM. Includes scenario, threat model, and exploitation summary. |
+| `/01-vulnerable-vm/` | Designed and documented an intentionally vulnerable Ubuntu Server 20.04 VM. |
 | `/02-assigned-vm-exploit/` | Detailed report for vulnerable VM exploitation assigned. |
 
 ## Main tools & Environment
