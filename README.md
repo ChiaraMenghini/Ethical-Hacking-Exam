@@ -22,5 +22,5 @@ For educational/academic use only. All work was performed against **isolated lab
 **Exploitation & Post-Ex:** Metasploit, netcat, reverse shells, GTFOBins.  
 **Credential Attacks:** Hydra, hashcat, SecLists wordlists.  
 **Network:** Wireshark (PCAP), tcpdump.  
-**Write-ups:** PDF reports with reproduction steps, analysis, and remediation.
+**Write-ups:** PDF reports with reproduction steps and analysis.
 
