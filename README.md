@@ -5,7 +5,7 @@ Two team-based penetration-testing assignments from the Ethical Hacking course:
 1) an intentionally vulnerable VM we designed to simulate real-world misconfigurations;  
 2) a separate vulnerable VM assigned to our team, which we enumerated and exploited.
 
-Each assignment followed the same rubric: **3 local-access vulnerabilities** and **3 privilege-escalation paths**, with full documentation and reproducibility notes.
+Each assignment followed the same structure: **3 local-access vulnerabilities** and **3 privilege-escalation paths**, with full documentation.
 
 ## ⚠️ Safety Notice
 For educational/academic use only. All work was performed against **isolated lab VMs** we owned or were explicitly authorized to test. Do **not** reuse techniques against systems you do not own or operate without *written* permission. The authors assume no responsibility for misuse.
@@ -17,9 +17,9 @@ For educational/academic use only. All work was performed against **isolated lab
 | `/02-assigned-vm-exploit/` | Engagement report for a provided vulnerable VM: enumeration, exploitation, post-ex, and remediation. |
 
 ## Tools & Environment
-**Environment:** VirtualBox/VMware; Kali/Parrot attack VM; target Ubuntu Server 20.04.  
-**Discovery & Enumeration:** nmap, gobuster/feroxbuster, smtp-enum modules, manual recon.  
-**Exploitation & Post-Ex:** Metasploit (select modules), netcat, reverse shells, GTFOBins, `sudo -l`.  
+**Environment:** VirtualBox; Parrot OS attack VM; target Ubuntu Server 20.04.  
+**Discovery & Enumeration:** nmap, gobuster, smtp-enum modules, manual recon.  
+**Exploitation & Post-Ex:** Metasploit, netcat, reverse shells, GTFOBins.  
 **Credential Attacks:** Hydra, hashcat, SecLists wordlists.  
 **Network:** Wireshark (PCAP), tcpdump.  
 **Write-ups:** PDF reports with reproduction steps, analysis, and remediation.
