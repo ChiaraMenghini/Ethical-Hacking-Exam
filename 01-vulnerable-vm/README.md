@@ -15,3 +15,7 @@ The project focused on realistic “company mail server” (Ubuntu Server 20.04)
   - `sudo` misconfiguration allowing interactive shell (`fish`) to run with elevated rights.  
   - **Footprinting** the director’s public profile to derive a DOB-based password (demonstrates OSINT risk).  
   - SUID helper and **over-permissive SSH key files** enabling root access when combined with process/file-descriptor tricks.
+ 
+  ## VM (OVA)
+  **Download:** [Google Drive link](https://drive.google.com/file/d/1avzkSMauvH16BbbR6_ifhJHaDNgqmDV1/view?usp=sharing)
+   **Run:** Import the OVA into **VirtualBox**, then start the VM.
