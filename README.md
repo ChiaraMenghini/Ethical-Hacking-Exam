@@ -14,7 +14,7 @@ For educational/academic use only. All work was performed against **isolated lab
 | Path | Description |
 | --- | --- |
 | `/01-vulnerable-vm/` | Designed and documented an intentionally vulnerable Ubuntu Server 20.04 VM. Includes scenario, threat model, and exploitation summary. |
-| `/02-assigned-vm-exploit/` | Detailed report for vulnerable VM exploitation. |
+| `/02-assigned-vm-exploit/` | Detailed report for vulnerable VM exploitation assigned. |
 
 ## Main tools & Environment
 **Environment:** VirtualBox; Parrot OS attack VM; target Ubuntu Server 20.04.  
