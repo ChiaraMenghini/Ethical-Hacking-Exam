@@ -24,4 +24,3 @@ For educational/academic use only. All work was performed against **isolated lab
 **Network:** Wireshark (PCAP), tcpdump.  
 **Write-ups:** PDF reports with reproduction steps, analysis, and remediation.
 
-> Sensitive artifacts (e.g., VM images, key material, cracked hashes) are **excluded** or placed in password-protected archives with clear labeling. See each assignment’s `artifacts/` notes.
