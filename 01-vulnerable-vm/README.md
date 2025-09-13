@@ -17,5 +17,5 @@ The project focused on realistic “company mail server” (Ubuntu Server 20.04)
   - SUID helper and **over-permissive SSH key files** enabling root access when combined with process/file-descriptor tricks.
  
   ## VM (OVA)
-  **Download:** [Google Drive link](https://drive.google.com/file/d/1avzkSMauvH16BbbR6_ifhJHaDNgqmDV1/view?usp=sharing)
-   **Run:** Import the OVA into **VirtualBox**, then start the VM.
+  **Download:** [Google Drive](https://drive.google.com/file/d/1avzkSMauvH16BbbR6_ifhJHaDNgqmDV1/view?usp=sharing) <br>
+  **Run:** Import the OVA into **VirtualBox**, then start the VM.
