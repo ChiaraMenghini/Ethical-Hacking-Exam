@@ -1,5 +1,5 @@
 # Ethical Hacking Labs 2024 🧩🛡️
-
+Team project for Sapienza’s Ethical hacking course. 
 ## Overview
 Two team-based penetration-testing assignments from the Ethical Hacking course:
 1) an intentionally vulnerable VM we designed to simulate real-world misconfigurations;  
