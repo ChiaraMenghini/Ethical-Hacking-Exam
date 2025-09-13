@@ -1,4 +1,4 @@
-# Assignment 1 — Vulnerable VM We Built
+# Assignment 1 — Vulnerable VM Creation
 
 ## Scenario & Scope
 The project focused on realistic “company mail server” (Ubuntu Server 20.04) with software up-to-date but **security misconfigurations** that enable local footholds and privilege escalation.
