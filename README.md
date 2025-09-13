@@ -8,7 +8,7 @@ Two team-based penetration-testing assignments from the Ethical Hacking course:
 Each assignment followed the same structure: **3 local-access vulnerabilities** and **3 privilege-escalation paths**, with full documentation.
 
 ## ⚠️ Safety Notice
-For educational/academic use only. All work was performed against **isolated lab VMs** we owned or were explicitly authorized to test. Do **not** reuse techniques against systems you do not own or operate without *written* permission. The authors assume no responsibility for misuse.
+For educational/academic use only. All work was performed against **isolated lab VMs** we were explicitly authorized to test. Do **not** reuse techniques against systems you do not own or operate without *written* permission. The authors assume no responsibility for misuse.
 
 ## Contents
 | Path | Description |
