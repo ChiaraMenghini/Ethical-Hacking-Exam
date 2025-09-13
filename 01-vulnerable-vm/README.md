@@ -8,7 +8,7 @@ The project focused on realistic “company mail server” (Ubuntu Server 20.04)
 
 ## Methods (High Level)
 - **Local access:**  
-  - Weak SSH credential on a leftover test account (`guest`), found through targeted checks of default/weak creds.  
+  - Weak SSH credential on a leftover test account (`guest`).  
   - SMTP user enumeration + **Hydra** brute-force to recover a user password from SecLists.  
   - Email workflow abuse: base64-encoded attachment recovered via SFTP, ZIP cracked to retrieve credentials.  
 - **Privilege escalation:**  
